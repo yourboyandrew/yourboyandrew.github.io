@@ -3,7 +3,11 @@
 }
 h1{
     font-family: 'Artifika', serif; 
-    text-align: center;
+      color: #006980;
+    font-size: 40px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #FFFCFC;
+    font-size: 50px;
 }
 article{
     margin-right: 100px;
