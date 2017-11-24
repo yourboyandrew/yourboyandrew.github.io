@@ -122,3 +122,8 @@ td, tr {
 	color: black;
 	background-color: rgb(255, 255, 255);
 }
+ article {
+      max-width: 800px;
+      padding: 20px;
+      margin: 0 auto;
+    }
