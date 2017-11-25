@@ -51,7 +51,7 @@ header {
     border: 7px solid white;
     margin: 40px 0px 0px 0px;
 }
-p li, ul{
+p, li, ul{
     color: #2dd881;
     font-size: 18px;
     margin-right: 100px;
