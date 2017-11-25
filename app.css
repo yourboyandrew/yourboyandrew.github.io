@@ -28,7 +28,7 @@ article{
     font-family: 'Indie Flower', cursive;
    font-family: 'Italianno', cursive;
 }
-#guitar {
+.guitar {
     border: solid white;
     margin-right: 100px;
     margin-left: 100px;
@@ -106,7 +106,7 @@ footer{
     background: -moz-linear-gradient(top, #11070f, #4ea699);
     background: linear-gradient(to bottom, #11070f, #4ea699);
 }
-#customers {
+#curriculum {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
