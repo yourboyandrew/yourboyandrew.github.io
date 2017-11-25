@@ -6,6 +6,9 @@ h1{
     -webkit-text-stroke-color: #FFFCFC;
     font-size: 50px;
 }
+#me{
+    color: #6fedb7;
+}
 article{
     margin-right: 100px;
     margin-left: 100px;
