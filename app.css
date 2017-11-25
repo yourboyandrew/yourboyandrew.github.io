@@ -1,4 +1,12 @@
-
+ul{
+     color: #2dd881;
+    font-size: 18px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-family: 'Alegreya', serif;
+}
 h1{
     font-family: 'Artifika', cursive; 
     font-size: 40px;
@@ -25,7 +33,7 @@ article{
     margin-right: 100px;
     margin-left: 100px;
 }
-h2, h3, h4, li, ul{
+h2, h3, h4{
     padding-right: 100px;
     padding-left: 100px;
     color: #6fedb7;
@@ -51,7 +59,7 @@ header {
     border: 7px solid white;
     margin: 40px 0px 0px 0px;
 }
-p, li, ul{
+p{
     color: #2dd881;
     font-size: 18px;
     margin-right: 100px;
