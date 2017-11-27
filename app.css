@@ -45,6 +45,7 @@ body{
 }
 li {
     padding: 0px 10px 0px 10px;
+     display: inline;
 }
 header {
     text-align: center;
@@ -86,7 +87,6 @@ footer{
     font: normal normal bold 15px arial;
     color: #ffffff;
     text-decoration: none;
-     dislplay: inline;
 }
 .button:hover,
 .button:focus {
