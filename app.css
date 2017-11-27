@@ -6,6 +6,7 @@ ul{
     padding-right: 100px;
     padding-left: 100px;
     font-family: 'Alegreya', serif;
+     padding: 10px;
 }
 h1{
     font-family: 'Artifika', cursive; 
@@ -42,11 +43,7 @@ h2, h3, h4{
 body{
     background-color: #1c0b19;
 }
-ul {
-    padding: 10px;
-}
 li {
-    display: inline;
     padding: 0px 10px 0px 10px;
 }
 header {
@@ -89,6 +86,7 @@ footer{
     font: normal normal bold 15px arial;
     color: #ffffff;
     text-decoration: none;
+     dislplay: inline;
 }
 .button:hover,
 .button:focus {
