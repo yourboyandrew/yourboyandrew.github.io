@@ -42,6 +42,10 @@ h2, h3, h4{
 
 body{
     background-color: #1c0b19;
+     margint-top: 0px;
+     margin-right: 0px;
+     margin-bottom: 0px;
+     margin-left: 0px;
 }
 li {
     padding: 0px 10px 0px 10px;
