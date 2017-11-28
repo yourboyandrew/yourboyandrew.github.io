@@ -22,8 +22,8 @@ h1{
     color: #6fedb7;
 }
 article{
-     margin-right: 100px;
-     margin-left: 100px;
+     margin-right: 150px;
+     margin-left: 150px;
      color: #6fedb7;
     font-family: 'Indie Flower', cursive;
    font-family: 'Italianno', cursive;
@@ -34,8 +34,7 @@ article{
     margin-left: 100px;
 }
 h2, h3, h4{
-    padding-right: 100px;
-    padding-left: 100px;
+
     color: #6fedb7;
 }
 
