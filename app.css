@@ -64,12 +64,9 @@ header {
 p{
     color: #2dd881;
     font-size: 18px;
-    margin-right: 100px;
-    margin-left: 100px;
-    padding-right: 100px;
-    padding-left: 100px;
     font-family: 'Alegreya', serif;
 }
+
 footer{
     color: #E63946
 }
